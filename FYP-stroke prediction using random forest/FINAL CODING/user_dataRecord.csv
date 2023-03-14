@@ -1,0 +1,31 @@
+id,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status
+788,Female,79,1,0,Yes,Private,Rural,214.09,28.2,never smoked
+58,Male,67,0,1,Yes,Private,Urban,228.69,36.6,formerly smoked
+999,Male,98,0,1,Yes,Govt_job,Urban,250.0,35.0,formerly smoked
+54321,Male,67,0,1,Yes,Private,Urban,228.69,36.6,formerly smoked
+9046,Male,67,0,1,Yes,Private,Urban,230.0,36.6,formerly smoked
+333,Male,67,0,1,Yes,Private,Urban,230.0,36.6,formerly smoked
+555,Male,65,0,0,Yes,Private,Urban,190.0,33.0,formerly smoked
+444,Male,65,0,1,Yes,Govt_job,Urban,210.0,35.0,formerly smoked
+9000,Male,65,0,1,Yes,Govt_job,Urban,210.0,35.0,formerly smoked
+7,Male,70,0,0,No,Govt_job,Urban,225.0,38.0,formerly smoked
+9047,Male,67,0,1,Yes,Private,Urban,230.0,36.6,formerly smoked
+14,Male,68,0,1,Yes,Govt_job,Urban,240.0,34.0,never smoked
+8888,Male,67,0,1,Yes,Private,Urban,230.0,35.0,formerly smoked
+77,Male,35,0,1,Yes,Private,Urban,230.0,230.0,formerly smoked
+9999,Male,67,0,1,Yes,Private,Urban,230.0,35.0,formerly smoked
+22,Male,67,0,1,Yes,Private,Urban,230.0,35.0,formerly smoked
+33,Male,68,0,1,Yes,Govt_job,Urban,240.0,36.0,formerly smoked
+5445,Male,68,0,1,Yes,Govt_job,Urban,240.0,36.0,formerly smoked
+202,Female,23,0,0,No,Self-employed,Urban,150.0,30.0,never smoked
+2508,Male,67,0,1,Yes,Private,Urban,228.69,36.6,formerly smoked
+1996,Female,80,1,0,Yes,Self-employed,Rural,73.0,28.9,never smoked
+1997,Female,29,0,0,Yes,Private,Rural,86.0,28.9,never smoked
+414,Male,50,0,0,Yes,Private,Urban,116.0,41.0,never smoked
+313,Male,58,0,0,No,Private,Rural,93.0,32.0,never smoked
+212,Male,78,0,0,No,Private,Rural,92.0,32.0,never smoked
+515,Male,78,0,0,No,Private,Rural,150.0,32.0,formerly smoked
+818,Male,70,0,1,Yes,Govt_job,Urban,190.0,30.0,formerly smoked
+51677,Female,60,0,0,Yes,Self-employed,Rural,202.21,28.0,never smoked
+31113,Male,80,0,1,Yes,Private,Rural,105.92,32.5,never smoked
+60183,Female,49,0,0,Yes,Private,Urban,171.12,34.4,smokes
